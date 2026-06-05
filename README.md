@@ -90,5 +90,5 @@ Some of the insights that can be extracted from the dashboard include:
 
 Aspiring Data Analyst / Business Intelligence Analyst passionate about transforming data into actionable insights through analytics and visualization.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/AhmadAbdallahMujahid
 LinkedIn: https://www.linkedin.com/in/ahmad-abdallah-9662942a0/
