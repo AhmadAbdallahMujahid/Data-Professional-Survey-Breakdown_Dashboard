@@ -70,7 +70,7 @@ Some of the insights that can be extracted from the dashboard include:
 ---
 ## Dashboard Preview
 
-<img src="Screenshot of the dashboard 0.png" alt="My Project Screenshot" width="500">
+<img src="Screenshot of the dashboard 0.png" alt="My Project Screenshot" width="1000">
 ---
 
 ## Skills Demonstrated
